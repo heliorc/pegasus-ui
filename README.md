@@ -1,4 +1,4 @@
-# Pegasus
+# Pegasus Multi-firmware UI
 No more Mr. Nice Gaius!
 
 ## MacOS
