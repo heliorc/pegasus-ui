@@ -1,5 +1,5 @@
 # Pegasus Multi-firmware UI
-No more Mr. Nice Gaius!
+> No more Mr. Nice Gaius! - Gaius Baltar
 
 ## MacOS
 install libusb using brew
