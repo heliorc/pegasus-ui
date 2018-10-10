@@ -1,3 +1,5 @@
+
+![Helio RC](https://heliorc.com/files/pegagus-ui.svg)
 # Pegasus Multi-firmware UI
 > No more Mr. Nice Gaius! - Gaius Baltar
 
