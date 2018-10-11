@@ -17,6 +17,9 @@ sudo port install libusb
 ```
 
 ## Windows
+
+Install libusb from zadig.
+
 If your target device is not HID, you '''must''' install a driver before you can communicate with it using libusb. Currently, this means installing one of Microsoft's WinUSB, [http://sourceforge.net/apps/trac/libusb-win32/wiki libusb-win32] or [http://libusbk.sourceforge.net/UsbK3/index.html libusbK] drivers. Two options are available:
 
 Recommended: Use the most recent version of '''[http://zadig.akeo.ie Zadig]''', an Automated Driver Installer GUI application for WinUSB, libusb-win32 and libusbK...
