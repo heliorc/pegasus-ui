@@ -58,3 +58,10 @@ add yourself to the dialout group for tty/serial permissions
 ```
 sudo usermod -a -G dialout $USER
 ```
+
+To use the appimage
+```
+./Pegasus.AppImage --appimage-extract
+cd sqaush-fs
+./pegasus
+```
